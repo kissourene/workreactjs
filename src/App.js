@@ -1,6 +1,6 @@
 import './App.css';
-import Login from "./login/Login";
-import Signup from './signup/Signup';
+import Login from "./components/Login/Login";
+import Signup from "./components/Sign/Signup";
 import {RouterProvider, createBrowserRouter} from "react-router-dom";
 
 function App() {
